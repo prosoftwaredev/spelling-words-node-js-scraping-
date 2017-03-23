@@ -1,0 +1,24 @@
+{
+  "name": "spelling-words-node-js-scraping-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrape.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/realsoftdev/spelling-words-node-js-scraping-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/realsoftdev/spelling-words-node-js-scraping-/issues"
+  },
+  "homepage": "https://github.com/realsoftdev/spelling-words-node-js-scraping-#readme",
+  "dependencies": {
+    "async": "^2.1.5",
+    "cheerio": "^0.22.0",
+    "request": "^2.81.0"
+  }
+}
